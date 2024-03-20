@@ -8,7 +8,7 @@ Vou registrar aqui cada avanço feito até o momento.
 
 ## O progresso
 - Concepção de novas ideias e wireframe: Anotei algumas ideias para o front e back-end, e fiz um wireframe de baixa fidelidade.
-![Wireframe](C:\Users\herom\OneDrive\Documentos\ProjetoPoke\ProjetoPoke\private\Wireframe.png)
+![Wireframe](https://i.imgur.com/xVdDowj.png)
 
 ## TODO (A fazer)
 - Preparar o HTML com o essencial
