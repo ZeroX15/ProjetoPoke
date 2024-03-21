@@ -10,6 +10,8 @@ Vou registrar aqui cada avanço feito até o momento.
 - Concepção de novas ideias e wireframe: Anotei algumas ideias para o front e back-end, e fiz um wireframe de baixa fidelidade.
 ![Wireframe](https://i.imgur.com/xVdDowj.png)
 
+- Esqueleto: Eu fiz um esqueleto do HTML e do script inicial, agora preciso popular o banco de dados.
+
 ## TODO (A fazer)
 - Preparar o HTML com o essencial
 - Adicionar CSS
