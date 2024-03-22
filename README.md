@@ -12,6 +12,10 @@ Vou registrar aqui cada avanço feito até o momento.
 
 - Esqueleto: Eu fiz um esqueleto do HTML e do script inicial, agora preciso popular o banco de dados.
 
+- População do banco de dados dia 1: Eu comecei a popular o banco de dados, mas foi meio difícil encontrar um conversor bom de json para extrair os dados certos, progresso: 6 de 18.
+
+- População do banco de dados dia 2: Em breve.
+
 ## TODO (A fazer)
 - Preparar o HTML com o essencial
 - Adicionar CSS

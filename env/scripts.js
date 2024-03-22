@@ -38,7 +38,7 @@ function addPokeCards() {
     /*
     - Descrição: https://pokeapi.co/api/v2/pokemon-species/[número da dex] em flavor_text_entries
     - Nome: https://pokeapi.co/api/v2/pokemon-species/[número da dex] em name
-    - Número da dex: https://pokeapi.co/api/v2/pokemon-species/[número da dex] em pokedex_numbers[0] (National Dex)
+    - Número da dex: https://pokeapi.co/api/v2/pokemon-species/[número da dex] em pokedex_numbers[0] (National Dex) Ou eu posso usar a id da tabela 
     - Formas alternativas: https://pokeapi.co/api/v2/pokemon-species/[número da dex] em varieties
     - Linhas evolutivas: https://pokeapi.co/api/v2/pokemon-species/[número da dex] em evolution_chain ou evolves_from_species
     - Tipos: https://pokeapi.co/api/v2/pokemon/[número da dex] em types
